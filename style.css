@@ -1,4 +1,4 @@
-.h1 {
+h1 {
     padding: 80px; /* some padding */
     text-align: center; /* center the text */
     background: #1abc9c; /* green background */
@@ -6,6 +6,13 @@
 }
 
     /* Increase the font size of the <h1> element */
-    .h1 {
-        font-size: 100px;
+ h1 {
+        font-size: 10px;
     }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
